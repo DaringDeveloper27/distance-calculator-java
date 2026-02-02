@@ -1,5 +1,5 @@
 // The Distance Calculator in Java
-package Chapter4;
+// package Chapter4;
 import java.util.Scanner;
 public class distanceCalculator {
     public static void main(String[] args){
