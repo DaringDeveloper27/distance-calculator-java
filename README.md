@@ -1,7 +1,8 @@
 # distance-calculator-java
 This is a distance calculator among coordinates made using Java.
-The code is written using th INTELLIJ IDEA IDE. 
-Note: When copying in the code to a different editor make sure to remove Line 2 -> "package Chapter4". The code won't run until this is removed. 
+The code is written using the INTELLIJ IDEA IDE. 
+Note: When copying in the code to a different editor make sure to remove Line 2 -> "package Chapter4". The code won't run until this is removed.
+ISSUE FIXED : "package Chapter4" is no longer there. If somehow it is, just make sure to remove it when compiling the code.
 
 
 This program uses the Distance Formula from Mathematics as its core logic. 
